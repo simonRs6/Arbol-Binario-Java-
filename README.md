@@ -15,6 +15,8 @@ Proyecto final para la asignatura de Estructuras de Datos, donde se implementa u
 - Sin uso de librerías externas (Standard Java).
 
 ## 📸 Evidencia de Funcionamiento
+![Image Alt](https://github.com/simonRs6/Arbol-Binario-Java-/blob/main/Screenshot%202026-03-08%20153305.png?raw=true)
+![Image Alt](https://github.com/simonRs6/Arbol-Binario-Java-/blob/main/Screenshot%202026-03-08%20153315.png?raw=true)
 
 ## 👤 Autor
 - **Simón Berrío Arango** - [simonRs6](https://github.com/simonRs6)
