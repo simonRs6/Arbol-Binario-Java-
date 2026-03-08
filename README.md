@@ -15,7 +15,6 @@ Proyecto final para la asignatura de Estructuras de Datos, donde se implementa u
 - Sin uso de librerías externas (Standard Java).
 
 ## 📸 Evidencia de Funcionamiento
-![Ejecución del Árbol](Screenshots/evidencia.png)
 
 ## 👤 Autor
 - **Simón Berrío** - [simonRs6](https://github.com/simonRs6)
