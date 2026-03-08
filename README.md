@@ -17,4 +17,4 @@ Proyecto final para la asignatura de Estructuras de Datos, donde se implementa u
 ## 📸 Evidencia de Funcionamiento
 
 ## 👤 Autor
-- **Simón Berrío** - [simonRs6](https://github.com/simonRs6)
+- **Simón Berrío Arango** - [simonRs6](https://github.com/simonRs6)
